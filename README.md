@@ -9,6 +9,8 @@
 Awesome Template is template created for https://github.com/sindresorhus/awesome with Awesome Lint.
 ## Contents
 
-- [Example](#example)
+- [Tools](#tools)
 
-## Example
+## Tools
+
+- [Axie Infinity Tools: Browser Extension To View Genes, Breeding Calculator and More](https://freakitties.github.io/axie/)
