@@ -9,7 +9,12 @@
 Awesome Template is template created for https://github.com/sindresorhus/awesome with Awesome Lint.
 ## Contents
 
+- [Resources](#resources)
 - [Tools](#tools)
+
+## Resources
+
+- [Explained: Axie Infinity SLP and AXS](https://dappradar.com/blog/explained-axie-infinity-slp-and-axs-tokens)
 
 ## Tools
 
